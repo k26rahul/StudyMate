@@ -2,9 +2,9 @@ from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
 from typing import Literal
 
-# from notes_agent import NotesAgentModel
-# from questions_agent import QuestionsAgentModel
-# from career_guidance_agent import CareerGuidanceAgentModel
+from notes_agent import NotesAgentModel
+from questions_agent import QuestionsAgentModel
+from career_guidance_agent import CareerGuidanceAgentModel
 from utils import get_llm_response
 
 app = FastAPI()

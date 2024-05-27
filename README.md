@@ -166,4 +166,10 @@ That's it! You should now have the project up and running, ready to assist stude
 
 ## Demo Videos
 
-The `Demo-Videos` folder contains demonstration videos showcasing various aspects of the project. These videos provide a visual guide to help you understand how to use and interact with the application. Specifically, you can find the `Main.Py-Demo.mp4` video, which walks through the process of running the main file and interacting with the agents.
+The `Demo-Videos` folder contains demonstration videos showcasing various aspects of the project. These videos provide a visual guide to help you understand how to use and interact with the application. The following videos are available:
+
+- **Main.Py-Demo.mp4**: This video walks through the process of running the main file and interacting with the agents.
+  
+- **FastAPI-Server-Demo.mp4**: This video provides a comprehensive guide on how to run the FastAPI server. It shows how to start the server, make POST requests using Postman, and interact with the different endpoints corresponding to the Notes Agent, Questions Agent, and Career Guidance Agent.
+
+These videos are intended to help you get started quickly and effectively with our intelligent agents and FastAPI server.
